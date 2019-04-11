@@ -1,0 +1,8 @@
+DEL /Q "common\Borderlands 2\WillowGame\Movies\VO*.bik"
+RD /S /Q "common\Borderlands 2\DLC\Mancana" 
+DEL /Q "common\Borderlands 2\Engine\Shaders\Binaries\SSAO.bin"
+DEL /Q "common\Borderlands 2\Binaries\Win32\bink2w32.dll" 
+DEL /Q "common\Borderlands 2\Engine\Shaders\SSAO.usf"
+DEL /Q "common\Borderlands 2\Engine\Shaders\Patched\VoGA.bin"
+DEL /Q "common\Borderlands 2\Engine\Shaders\Patched\VoGB.bin"
+ROBOCOPY /E content\app_49520\depot_49523 "common\Borderlands 2"
