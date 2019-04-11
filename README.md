@@ -18,4 +18,5 @@ To fix the coop changes should be made **on Windows side**
 - No Angel/Lilith ECHO videos 
 - first launch fails (after running the game my launcher after I pushed "play" button - poped up again, instead of loading the game, but straight from the second try and on - worked with no problems, so just be prepared to launch the game twice for the first time after running the script)
 
+### Acknowledgment:
 ***The fix was made with a HUGE help from this [post](https://steamcommunity.com/sharedfiles/filedetails/?id=1086279994)***
