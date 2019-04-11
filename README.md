@@ -7,7 +7,7 @@ To fix the coop changes should be made **on Windows side**
 - game installed in "[*path_to_Steam*]/steamapps/common" (default installation location)
 - Steam **NOT** running
 - Borderlands 2 **NOT** running
-- Steam console enabled [how to](https://steamcommunity.com/sharedfiles/filedetails/?id=873543244)
+- Steam console enabled [How to](https://steamcommunity.com/sharedfiles/filedetails/?id=873543244)
 
 ## How to use:
 1. Enter "download_depot 49520 49523 5252520600023584956" in Steam Console and wait till the download is finished (the package is approximately 1.93Gb. When the download is finished (0 network activity in Steam Client) you should see "[*path_to_Steam*]/steamapps/content/app_49520" on your Computer
