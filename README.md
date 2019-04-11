@@ -4,7 +4,7 @@ To fix the coop changes should be made **on Windows side**
 
 ## Pre-requirements: 
 - Uninstall Textures HD DLC
-- game installed in "[path_to_Steam]/steamapps/common" (default installation location)
+- game installed in "[*path_to_Steam*]/steamapps/common" (default installation location)
 - Steam **NOT** running
 - Borderlands 2 **NOT** running
 
