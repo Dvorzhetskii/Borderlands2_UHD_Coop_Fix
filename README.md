@@ -25,7 +25,7 @@ To fix the coop changes should be made **on Windows side**
 
 ## How to use:
 1. Enter "download_depot 261640 261643 7190212040507212216" in Steam Console and wait till the download is finished (the package is approximately 2.7Gb. When the download is finished (0 network activity in Steam Client) you should see "[*path_to_Steam*]/steamapps/content/app_261640" on your Computer
-2. Download the [bltps.bat](https://github.com/Dvorzhetskii/Borderlands2_UHD_Coop_Fix/blob/master/bl2.bat) file and place it to "[*path_to_Steam*]/steamapps/" folder (you should get "[*path_to_Steam*]/steamapps/bltps.bat")
+2. Download the [bltps.bat](https://github.com/Dvorzhetskii/Borderlands2_UHD_Coop_Fix/blob/master/bltps.bat) file and place it to "[*path_to_Steam*]/steamapps/" folder (you should get "[*path_to_Steam*]/steamapps/bltps.bat")
 3. Double click on bltps.bat file... et voila! The coop shall be fixed.
 
 ### Acknowledgment:
