@@ -29,5 +29,7 @@ To fix the coop changes should be made **on Windows side**
 2. Download the [bltps.bat](https://github.com/Dvorzhetskii/Borderlands2_UHD_Coop_Fix/blob/master/bltps.bat) file and place it to "[*path_to_Steam*]/steamapps/" folder (you should get "[*path_to_Steam*]/steamapps/bltps.bat")
 3. Double click on bltps.bat file... et voila! The coop shall be fixed.
 
+## Known issues:
+- first two launches fail (after running the game my launcher after I pushed "play" button - poped up again twice, instead of loading the game, but straight from the third try and on - worked with no problems, so just be prepared to launch the game three times for the first time after running the script)
 ### Acknowledgment:
 ***The fix was made with a HUGE help from this [post](https://steamcommunity.com/sharedfiles/filedetails/?id=1086279994)***
