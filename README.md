@@ -20,6 +20,7 @@ To fix the coop changes should be made **on Windows side**
 ## Known issues:
 - No Angel/Lilith ECHO videos 
 - first launch fails (after running the game my launcher after I pushed "play" button - poped up again, instead of loading the game, but straight from the second try and on - worked with no problems, so just be prepared to launch the game twice for the first time after running the script)
+- SSAO.usf missing file error - [solution](https://www.reddit.com/r/Borderlands2/comments/bbh8rq/fix_windowsmac_coop_compatibility/en49ngq?utm_source=share&utm_medium=web2x)
 
 # Borderlands The Pre-Sequel
 
